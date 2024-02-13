@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Juan José Jurado Magdaleno",
+    "label": "Full Stack Developer",
+    "image": "./public/me.webp",
+    "email": "juradomagdalenojuanjose@gmail.com",
+    "phone": "+34 625478384",
+    "summary": "Desarrollador full stack. Siempre me ha llamado la atención como la tecnología nos hace la vida más fácil y está cada vez más presente en el día a día. Estoy siempre en constante aprendizaje y aprendiendo de este sector. Mi objetivo es especializarme en Java y potenciar mis habilidades al mismo tiempo que gano experiencia.",
+    "location": {
+      "address": "",
+      "postalCode": "23770",
+      "city": "Marmolejo, Jaén",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Juan Jose Jurado Magdaleno",
+        "url": "https://www.linkedin.com/in/juan-jos%C3%A9-jurado-magdaleno-1a5948245/"
+      },
+      {
+        "network": "GitHub",
+        "username": "juanjojur97",
+        "url": "https://github.com/juanjojur97/"
+      }
+    ]
+  },
+  "education": [{
+    "institution": "MasterD",
+    "area": "Técnico Superior en Desarrollo de Aplicaciones Web",
+    "studyType": "Curso Superior",
+    "startDate": "2022-09-01",
+    "endDate": "2024-02-05",
+    "score": "9.67",
+    "description":"Desarrollo de aplicaciones web y software, haciendo uso de los lenguajes de programación mas usados como son Java, JavaScript y PHP."
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Sotware", "Backend"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web","Backend"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Sotware", "Backend", "Framework"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reserva Asientos Cine",
+      "isActive": true,
+      "description": "Webapp para reservar asientos con JS, haciendo uso del localStorage.",
+      "highlights": ["JavaScript","HTML", "CSS"
+        
+      ],
+      "url": "https://github.com/juanjojur97/JS_Reserva_de_Asientos"
+    },
+    {
+      "name": "Web JavaScript",
+      "isActive": true,
+      "description": "Web sencilla donde incorporo JavaScript para hacer una galeria dinámica, un mapa dinámico usando herramientas de google, un formulario validado, con un apartado de presupuestos dinámico, asi como uso de JSON y su interacción de JS con Ajax.",
+      "highlights": [
+        "JavaScript",
+        "HTML y CSS",
+        "Ajax"
+      ],
+      "url": "https://github.com/juanjojur97/Proyecto-JS"
+    },
+    {
+      "name": "Web PHP",
+      "isActive": true,
+      "description": "Proyecto utilizando PHP donde uso una estructura MVC. La web se basa en diferenciar los roles, que seras usuario o admin, teniendo un panel de control distinto, ademas mediando el uso de base de datos se permite el registro y login de los visitantes, asi como insertar citas o noticias.",
+      "highlights": [
+        "PHP",
+        "SQL"
+      ],
+      "url": "https://github.com/juanjojur97/Proyecto-PHP"
+    },
+    {
+      "name": "Web Tematica Tarot",
+      "isActive": true,
+      "description": "Web donde uso HTML y CSS para dar un diseño web adaptado al tema de Tarot.",
+      "highlights": [
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://github.com/juanjojur97/Web-Tarot"
+    },
+    {
+      "name": "Pequeños proyectos con Java",
+      "isActive": true,
+      "description": "Mini-Proyectos usando Java",
+      "highlights": [
+        "Java"
+      ],
+      "url": "https://github.com/juanjojur97/Java-Projects"
+    }
+  ]
+}
